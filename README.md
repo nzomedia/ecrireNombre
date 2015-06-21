@@ -1,3 +1,4 @@
+# ecrireNombre
 ecrireNombre est un petit programme qui retourne l'ecriture litterale 
 d'un nombre passé en argument.
 
