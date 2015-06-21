@@ -1,4 +1,4 @@
-ecrireNombre est un petit programme qui retourne l'ecriture literale 
+ecrireNombre est un petit programme qui retourne l'ecriture litterale 
 d'un nombre passé en argument.
 
 Le programme est ecrit en C++.

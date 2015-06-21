@@ -8,7 +8,7 @@
 using namespace std;
 
 //////////////////////////////////////////////////
-//Ecrire un nombre sous une forme literale.
+//Ecrire un nombre sous une forme litterale.
 //version 1.0c, par Youssouf
 //19 Mars 2014, nzomedia2@yahoo.fr
 /////////////////////////////////////////////////
